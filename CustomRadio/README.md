@@ -1,23 +1,3 @@
-This repository contains mods that offer minor quality-of-life improvements over the base game of Cities: Skylines II.
-
-**Disclaimer: These modifications are highly experimental. Your game may crash more frequently, and your save files could be corrupted.**
-
-## Mod
-
-* Custom Radio
-
-## Installation
-
-1. If you already have BepInEx 5, proceed to step 4
-2. Install [BepInEx 5](https://github.com/BepInEx/BepInEx/releases)
-   * Download `BepInEx_x64_5.4.22.0.zip` (or a newer version), and unzip all of its contents into the game's installation directory, typically `C:/Steam/steamapps/common/Cities Skylines II`
-   * The installation directory should now have the `BepInEx` folder, the `doorstop_config.ini` file, and the `winhttp.dll` file
-3. Run the game once, then close it. You can close it when the main menu appears
-4. Download the mod [https://github.com/dragonofmercy/cs2-customradio/releases](https://github.com/dragonofmercy/cs2-customradio/releases)
-5. Unzip the downloaded file into the `Cities Skylines II/BepInEx/plugins` folder
-   * Don't forget to uninstall the old version of the mod to avoid conflicts
-6. Launch the game, the mod should be loaded automatically
-
 ## Customize Radios
 
 In the plugin folder you will find a Folder named `Radios`, this is the base folder that create a new Network in the game (just next to "Commercial radios").  
